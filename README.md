@@ -5,5 +5,5 @@
 - 💞️ I’m looking to collaborate on proyects of development software.
 - 📫 How to reach me anthony.sanchez@pucese.edu.ec
 - 📫 How to reach me asanchez047@puce.edu.ec
-- GitHub Personal: https://github.com/asanchez96
+- GitHub Personal: https://github.com/asanchezg96
 - My profile www.linkedin.com/in/anthony-sanchez-guashpa 
